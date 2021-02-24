@@ -13,7 +13,7 @@
     dotnet fsi --langversion:preview project3.fsx arg1 arg2
     
     * arg1 is the number of nodes
-    ( arg2 is the number of requests
+    * arg2 is the number of requests
     
 * Utilized asynchronous Akka.NET actors and achieved object location and message transmission in logarithmic time.
 
