@@ -11,8 +11,10 @@
   * Number of Nodes: 10000
   * Number of requests made by each node: 10
 
-* To run the application, use the command:
-    dotnet fsi --langversion:preview project3.fsx arg1 arg2
+
+### To Run the Application:
+* Open a terminal in the project folder and run the command: \
+    &nbsp;&nbsp;&nbsp; ```dotnet fsi --langversion:preview project3.fsx arg1 arg2```
     
     * arg1 is the number of nodes
     * arg2 is the number of requests
